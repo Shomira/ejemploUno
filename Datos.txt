@@ -3,3 +3,5 @@ ID Nombres Apellidos Edad
 02 Shomira Rosales 19
 03 Shomira Rosales 19
 04 Felipe Elizalde 5
+03 Nataly  Rosales  19
+

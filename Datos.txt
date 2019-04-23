@@ -1,2 +1,4 @@
 ID Nombres Apellidos Edad
 01 Shomira Rosales 19
+ID Nombres Apellidos Edad
+01 Shomira Rosales 19
